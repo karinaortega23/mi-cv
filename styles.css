@@ -1,0 +1,162 @@
+body {
+    background-color: #fdf1e3;
+}
+
+h1{
+    color: firebrick;
+    background-color: #fdf1e3;
+    text-align: left;   
+    margin-left: 100px;
+    margin-right: 0px;
+    font-family: "Funnel Display", serif;
+    font-style: bold;
+    font-size: 100px;
+    width: 500px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+h2{
+    font-family: "Funnel Display", serif;
+    background-color: #fdf1e3;
+    font-style: bold;
+    font-size: 50px;
+    width: 400px;
+    color: firebrick;
+    display: inline-block;
+    margin-left: 60px;
+}
+
+h3{
+    border: 1px solid firebrick;
+    border-radius: 30px;
+    width: 200px;
+    text-align: center;
+    color: firebrick;
+    font-family: "Funnel Display", serif;
+    font-style: bold;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+p{
+    font-family: "Noto Sans", serif;
+    font-size: 15px;
+    color: firebrick;
+    margin-left: 100px;
+    margin-block-end: 50px;
+    width: 750px;
+}
+
+.contacto {
+    display: inline-block;
+    position: absolute;
+    top: 130px;
+    left: 950px;
+}
+
+.info-contacto {
+    display: inline-block;
+    width: 200px;
+    position: absolute;
+    top: 170px;
+    left: 950px;
+    line-height: 2;
+   
+}
+
+img{
+    float: right;
+    display: block;
+    width: 350px;
+    margin-right: 100px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+
+div {
+    position: sticky;
+    top: 0px;
+    background-color: #fdf1e3;
+    height: 260px;
+    
+}
+
+.referencias {
+    position: absolute;
+    left: 950px;
+    top: 700px;
+}
+
+.info-referencias {
+    position: absolute;
+    left: 890px;
+    top: 820px;
+    width: 355px;
+}
+
+.ref {
+    position: absolute;
+    font-size: 20px;
+    font-style: italic;
+    left: 890px;
+    top: 750px;
+    width: 355px;
+    letter-spacing: 2px;
+}
+
+.ref-2 {
+    position: absolute;
+    font-style: italic;
+    left: 890px;
+    top: 785px;
+    width: 355px;
+    letter-spacing: 2px;
+}
+
+
+.fechas {
+    margin-bottom: 0px;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+.lugares {
+    margin-bottom: 0px;
+    font-style: bold;
+    letter-spacing: 1px;
+}
+
+
+#fechas-educacion {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 0px;
+    margin-top: 0px;
+    margin-block-start: -40px;
+}
+
+#escuelas {
+    display: inline-block;
+    font-style: bold;
+    font-size: 20px;
+    letter-spacing: 1px;
+    width: 300px;
+    position: relative;
+}
+
+.info-educacion {
+    display: inline-block;
+    width: 500px;
+    margin-inline-start: -305px;
+    position: relative;
+    top:100px;
+    margin-inline-end: 500px;
+    margin-block-start: -100px;
+}
